@@ -1,2 +1,2 @@
-# AUDIO-VISUAL DEEPFAKE GENERATION AND DETECTION: AN EXPLORATORY SURVEY
-This is an an exploratory survey on audio-visual deepfake generation and detection.
+# AN EXPLORATORY SURVEY
+This repository provides an overview on audio-visual deepfake generation and detection.
