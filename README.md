@@ -8,14 +8,16 @@ This repository provides an overview on audio-visual deepfake generation and det
 
 ### Methods
 
-### Lip-Syncing Generation
-
-### Talking-Face Generation
-
+### Datasets
 
 
 
 ## Detection
+
+### Modal Fusion Detectors
+
+### Modal Inconsistency Detectors
+
 
 
 
