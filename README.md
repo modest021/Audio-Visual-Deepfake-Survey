@@ -3,14 +3,14 @@ This repository provides an overview on audio-visual deepfake generation and det
 
 ## Summary of Contents
 ---
-- [Summary of Contents](#Summary of Contents)
-- [Audio Visual Generation](#Audio Visual Generation)
+- [Summary of Contents](#Summary-of-Contents)
+- [Audio Visual Generation](#Audio-Visual-Generation)
   - [Methods](#Methods)
   - [Datasets](#Datasets)
--[Audio Visual Detection](#Audio Visual Detection)
-  -[Modal Fusion Detectors](#Modal Fusion Detectors)
-  -[Modal Inconsistency Detectors](#Modal Inconsistency Detectors)
--[Generalization Experiments](#Generalization Experiments)
+-[Audio Visual Detection](#Audio-Visual-Detection)
+  -[Modal Fusion Detectors](#Modal-Fusion-Detectors)
+  -[Modal Inconsistency Detectors](#Modal-Inconsistency-Detectors)
+-[Generalization Experiments](#Generalization-Experiments)
 
 ## Audio Visual Generation
 
