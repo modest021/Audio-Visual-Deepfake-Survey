@@ -25,7 +25,7 @@ This repository provides an overview on audio-visual deepfake generation and det
 ### Modal Fusion Detectors
 |Year|Source|CCF Rank|Category|Paper Title|Code|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|2024|ICASSP|CCF-B|[Supervised Methods|CROSS-MODALITYANDWITHIN-MODALITYREGULARIZATIONFORAUDIO-VISUAL DEEPFAKEDETECTION](https://arxiv.org/pdf/2401.05746)|[Code](https://github.com/Vincent-ZHQ/MRDF)|
+|2024|ICASSP|CCF-B|Supervised Methods|CROSS-MODALITYANDWITHIN-MODALITYREGULARIZATIONFORAUDIO-VISUAL DEEPFAKEDETECTION](https://arxiv.org/pdf/2401.05746)|[Code](https://github.com/Vincent-ZHQ/MRDF)|
 
 ### Modal Inconsistency Detectors
 
