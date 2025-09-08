@@ -36,6 +36,7 @@ This repository provides an overview on audio-visual deepfake generation and det
 |2024|ICME|CCF-B|Multi-Task Learning|[Explicit Correlation Learning for Generalizable Cross-Modal Deepfake Detection](https://ieeexplore.ieee.org/document/10687814)|[Code](https://github.com/ljj898/CMDFD-Dataset-and-Deepfake-Detection)|
 |2023|IEEE TCSVT|CCF-A|Multi-Task Learning|[MCL: Multimodal Contrastive Learning for Deepfake Detection](https://ieeexplore.ieee.org/document/10243082)|-|
 |2023|IEEE TIFS|CCF-A|Spatiotemporal Modeling|[AVoiD-DF: Audio-Visual Joint Learning for Detecting Deepfake](https://ieeexplore.ieee.org/document/10081373)|[Code](https://github.com/SYSU-DISG/AVoiD-DF)|
+|2023|CVPR Workshop|CCF-A|Multi-Task Learning|[Multimodaltrace: Deepfake Detection using Audiovisual Representation Learning](https://ieeexplore.ieee.org/document/10208948)|-|
 
 #### Hybrid Self-Supervised and Supervised Methods
 |Year|Source|CCF Rank|Category|Paper Title|Code|
@@ -51,8 +52,8 @@ This repository provides an overview on audio-visual deepfake generation and det
 |:-:|:-:|:-:|:-:|-|:-:|
 |2024|ICME|CCF-B|Supervised Methods|[Exposing Lip-syncing Deepfakes from Mouth Inconsistencies](https://ieeexplore.ieee.org/document/10687902)|[Code](https://github.com/skrantidatta/LIPINC)|
 |2024|NeurIPS|CCF-A|Supervised Methods|[Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a5a5b0ff87c59172a13342d428b1e033-Abstract-Conference.html)|[Code](https://github.com/AaronComo/LipFD)|
-|2023|TOMM|CCF-B|[Voice-Face Homogeneity Tells Deepfake](https://arxiv.org/abs/2203.02195)|[Code](https://github.com/xaCheng1996/MVF)|
-
+|2023|TOMM|CCF-B|Supervised Methods|[Voice-Face Homogeneity Tells Deepfake](https://arxiv.org/abs/2203.02195)|[Code](https://github.com/xaCheng1996/MVF)|
+|2023|CVPR Workshop|CCF-A|Supervised Methods|[Audio-Visual Person-of-Interest DeepFake Detection](https://arxiv.org/abs/2204.03083)|[Code](https://github.com/grip-unina/poi-forensics)|
 
 #### Unsupervised Methods
 |Year|Source|CCF Rank|Category|Paper Title|Code|
@@ -63,10 +64,6 @@ This repository provides an overview on audio-visual deepfake generation and det
 
 
 
-
-#### Unsupervised Methods
-|Year|Source|CCF Rank|Category|Paper Title|Code|
-|:-:|:-:|:-:|:-:|-|:-:|
 ## Generalization Experiments
 
 ### Benchmark Results
