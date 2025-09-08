@@ -24,12 +24,16 @@ This repository provides an overview on audio-visual deepfake generation and det
 
 ### Modal Fusion Detectors
 |Year|Source|CCF Rank|Category|Paper Title|Code|
-|:-:|:-:|:-:|:-:|-|:-:|
+|:-:|-|:-:|:-:|-|:-:|
 |2024|ICASSP|CCF-B|Supervised Methods|[Cross-Modality and Within-Modality Regularization for Audio-Visual DeepFake Detection](https://arxiv.org/abs/2401.05746)|[Code](https://github.com/Vincent-ZHQ/MRDF)|
 |2024|ACM MM|CCF-A|Supervised Methods|[FRADE: Forgery-aware Audio-distilled Multimodal Learning for Deepfake Detection](https://dl.acm.org/doi/10.1145/3664647.3681672)|[Code](https://github.com/niefengxxx/FRADE)|
 |2024|ACM TOMM|CCF-A|Supervised Methods|[Joint Audio-Visual Attention with Contrastive Learning for More General Deepfake Detection](https://dl.acm.org/doi/10.1145/3625100)|-|
 |2024|IJCV|CCF-A|Supervised Methods|[Fine-grained Multimodal DeepFake Classification via Heterogeneous Graphs](https://link.springer.com/article/10.1007/s11263-024-02128-1)|[Code](https://github.com/yinql1995/Fine-grained-Multimodal-DeepFake-Classification/)
-
+|2023|IEEE TIFS|CCF-A|Supervised Methods|[Avoid-df: Audio-visual joint learning for detecting deepfake](https://ieeexplore.ieee.org/document/10081373)|-|
+|2024|ICME|CCF-B|Supervised Methods|[Explicit correlation learning for generalizable cross-modal deepfake detection](https://ieeexplore.ieee.org/document/10550478/)|-|
+|2025|AAAI|CCF-A|Supervised Methods|[Multi-modal deepfake detection via multi-task audio-visual prompt learning](https://arxiv.org/abs/2402.16410)|-|
+|2023|IEEE TCSVT|CCF-A|Supervised Methods|[Mcl: Multimodal contrastive learning for deepfake detection](https://ieeexplore.ieee.org/document/10100438)|-|
+|2025|AAAI|CCF-A|Supervised Methods|[Glcf: A global-local multi-modal coherence analysis framework for talking face generation detection](https://ojs.aaai.org/index.php/AAAI/article/view/31982)|-|
 
 ### Modal Inconsistency Detectors
 
