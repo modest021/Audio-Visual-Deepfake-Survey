@@ -25,9 +25,11 @@ This repository provides an overview on audio-visual deepfake generation and det
 ### Modal Fusion Detectors
 |Year|Source|CCF Rank|Category|Paper Title|Code|
 |:-:|:-:|:-:|:-:|-|:-:|
-|2024|ICASSP|CCF-B|Supervised Methods|[CROSS-MODALITYANDWITHIN-MODALITYREGULARIZATIONFORAUDIO-VISUAL DEEPFAKEDETECTION](https://arxiv.org/abs/2401.05746)|[Code](https://github.com/Vincent-ZHQ/MRDF)|
+|2024|ICASSP|CCF-B|Supervised Methods|[Cross-Modality and Within-Modality Regularization for Audio-Visual DeepFake Detection](https://arxiv.org/abs/2401.05746)|[Code](https://github.com/Vincent-ZHQ/MRDF)|
 |2024|ACM MM|CCF-A|Supervised Methods|[FRADE: Forgery-aware Audio-distilled Multimodal Learning for Deepfake Detection](https://dl.acm.org/doi/10.1145/3664647.3681672)|[Code](https://github.com/niefengxxx/FRADE)|
 |2024|ACM TOMM|CCF-A|Supervised Methods|[Joint Audio-Visual Attention with Contrastive Learning for More General Deepfake Detection](https://dl.acm.org/doi/10.1145/3625100)|-|
+|2024|IJCV|CCF-A|Supervised Methods|[Fine-grained Multimodal DeepFake Classification via Heterogeneous Graphs](https://link.springer.com/article/10.1007/s11263-024-02128-1)|[Code](https://github.com/yinql1995/Fine-grained-Multimodal-DeepFake-Classification/)
+
 
 ### Modal Inconsistency Detectors
 
