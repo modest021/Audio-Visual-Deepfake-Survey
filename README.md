@@ -23,6 +23,8 @@ This repository provides an overview on audio-visual deepfake generation and det
 ## Audio Visual Detection
 
 ### Modal Fusion Detectors
+|Year|Venue||CCF|Paper Title|Code|
+|:-:|:-:|:-:|:-:|:-:|:-:|
 
 ### Modal Inconsistency Detectors
 
