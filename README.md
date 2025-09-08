@@ -23,6 +23,8 @@ This repository provides an overview on audio-visual deepfake generation and det
 ## Audio Visual Detection
 
 ### Modal Fusion Detectors
+
+#### Supervised Methods
 |Year|Source|CCF Rank|Category|Paper Title|Code|
 |:-:|:-:|:-:|:-:|-|:-:|
 |2024|ICASSP|CCF-B|Supervised Methods|[Cross-Modality and Within-Modality Regularization for Audio-Visual DeepFake Detection](https://arxiv.org/abs/2401.05746)|[Code](https://github.com/Vincent-ZHQ/MRDF)|
