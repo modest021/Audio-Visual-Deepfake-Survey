@@ -24,7 +24,7 @@ This repository provides an overview on audio-visual deepfake generation and det
 
 ### Modal Fusion Detectors
 |Year|Source|CCF Rank|Category|Paper Title|Code|
-|:-:|-|:-:|:-:|-|:-:|
+|:-:|:-:|:-:|:-:|-|:-:|
 |2024|ICASSP|CCF-B|Supervised Methods|[Cross-Modality and Within-Modality Regularization for Audio-Visual DeepFake Detection](https://arxiv.org/abs/2401.05746)|[Code](https://github.com/Vincent-ZHQ/MRDF)|
 |2024|ACM MM|CCF-A|Supervised Methods|[FRADE: Forgery-aware Audio-distilled Multimodal Learning for Deepfake Detection](https://dl.acm.org/doi/10.1145/3664647.3681672)|[Code](https://github.com/niefengxxx/FRADE)|
 |2024|ACM TOMM|CCF-A|Supervised Methods|[Joint Audio-Visual Attention with Contrastive Learning for More General Deepfake Detection](https://dl.acm.org/doi/10.1145/3625100)|-|
@@ -34,6 +34,12 @@ This repository provides an overview on audio-visual deepfake generation and det
 |2025|AAAI|CCF-A|Supervised Methods|[Multi-modal deepfake detection via multi-task audio-visual prompt learning](https://arxiv.org/abs/2402.16410)|-|
 |2023|IEEE TCSVT|CCF-A|Supervised Methods|[Mcl: Multimodal contrastive learning for deepfake detection](https://ieeexplore.ieee.org/document/10100438)|-|
 |2025|AAAI|CCF-A|Supervised Methods|[Glcf: A global-local multi-modal coherence analysis framework for talking face generation detection](https://ojs.aaai.org/index.php/AAAI/article/view/31982)|-|
+
+|Year|Source|CCF Rank|Category|Paper Title|Code|
+|:-:|:-:|:-:|:-:|-|:-:|
+|2024|CVPR|CCF-A|Hybrid Self-Supervised and Supervised Methods|[Avff: Audio-visual feature fusion for video deepfake detection](https://openaccess.thecvf.com/content/CVPR2024W/WIFS/html/Oorloff_AVFF_Audio-Visual_Feature_Fusion_for_Video_Deepfake_Detection_CVPRW_2024_paper.html)|-|
+|2024|CVIU|CCF-B|Hybrid Self-Supervised and Supervised Methods|[Audio–visual deepfake detection using articulatory representation learning](https://www.sciencedirect.com/science/article/abs/pii/S107731422400115X)|-|
+|2024|ACM MM|CCF-A|Hybrid Self-Supervised and Supervised Methods|[Mfms: Learning modality-fused and modality-specific features for deepfake detection and localization tasks](https://dl.acm.org/doi/abs/10.1145/3652876.3681678)|-|
 
 ### Modal Inconsistency Detectors
 
