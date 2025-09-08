@@ -31,7 +31,7 @@ This repository provides an overview on audio-visual deepfake generation and det
 
 ## Benchmark Results
 
-|Detector&nbsp;&nbsp;&nbsp;&nbsp;|Testing Set&nbsp;&nbsp;&nbsp;&nbsp;|AUC&nbsp;&nbsp;&nbsp;&nbsp;|ACC&nbsp;&nbsp;&nbsp;&nbsp;|Precision&nbsp;&nbsp;&nbsp;&nbsp;|Recall&nbsp;&nbsp;&nbsp;&nbsp;|
+|&nbsp;&nbsp;&nbsp;&nbsp;Detector&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Testing Set&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;AUC&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;ACC&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Precision&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Recall&nbsp;&nbsp;&nbsp;&nbsp;|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |                     | FakeAVCeleb | 0.9912 | 0.939 | 0.8998 | 0.988 |
 |                     | LAV-DF      | 0.6513 | 0.561 | 0.5340 | 0.958 |
