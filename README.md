@@ -1,6 +1,9 @@
 # An Exploratory Servey
 This repository provides an overview on audio-visual deepfake generation and detection.
 
+
+<img src="figures/audiovisualdeepfake.png">
+
 ## Summary of Contents
 ---
 - [Summary of Contents](#Summary-of-Contents)
