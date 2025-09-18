@@ -54,7 +54,7 @@ We review existing work on audio-visual deepfake detection.Due to space limitati
 
 ## B.Generalization Experiments
 
-### Benchmark Results
+We evaluated several detectors using Area Under the Curve (AUC), Accuracy (ACC), Precision, and Recall as performance metrics. Below, we present the complete results.
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Detector&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Testing Set&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AUC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ACC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Precision&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recall&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -93,3 +93,5 @@ We review existing work on audio-visual deepfake detection.Due to space limitati
 | **AVH-Align**       | IDForge     | 0.1472 | 0.501 | 0.5005 | 1.000 |
 |                     | AVLips      | 0.8661 | 0.864 | 0.8085 | 0.954 |
 |                     | CMDFD       | 0.8286 | 0.758 | 0.7287 | 0.822 |
+
+We are looking forward to any valuable questions or suggestions, please feel free to contact us at xuhang@hrbeu.edu.cn
