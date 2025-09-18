@@ -33,7 +33,6 @@ We review existing work on audio-visual deepfake detection.Due to space limitati
 |[MFMS: Learning Modality-Fused and Modality-Specific Features for Deepfake Detection and Localization Tasks](https://dl.acm.org/doi/abs/10.1145/3664647.3688984)|Hybrid Self-Supervised and Supervised Methods|Modality-Fused and Modality-Specific Features|ACM MM|CCF-A|2024|
 
 
-
 ### Modal Inconsistency Detectors
 
 |Paper Title|Category|Venue|CCF Rank|Year|
@@ -48,7 +47,7 @@ We review existing work on audio-visual deepfake detection.Due to space limitati
 |[Zero-Shot Fake Video Detection by Audio-Visual Consistency](https://arxiv.org/pdf/2406.07854)|Supervised Methods|Interspeech|CCF-C|2024|
 |[Detecting Audio-Visual Deepfakes with Fine-Grained Inconsistencies](https://arxiv.org/pdf/2408.06753)|Supervised Methods|BMVC|CCF-C|2024|
 |[NPVForensics: Learning VA correlations in non-critical phoneme–viseme regions for deepfake detection](https://www.sciencedirect.com/science/article/pii/S0262885625000496)|Supervised Methods|Image and Vision Computing|CCF-C|2025|
-
+|[STATISTICS-AWARE AUDIO-VISUAL DEEPFAKE DETECTOR](https://arxiv.org/pdf/2407.11650?)|Supervised Methods|ICIP|CCF-C|2024|
 
 
 
