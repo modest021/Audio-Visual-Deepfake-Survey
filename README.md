@@ -13,7 +13,6 @@
 
 ### Modal Fusion Detectors
 
-#### Supervised Methods
 |Paper Title|Category|Strategy|Venue|CCF Rank|Year|
 |-|:-:|:-:|:-:|:-:|:-:|
 |[GLCF: A Global-Local Multimodal Coherence Analysis Framework for Talking Face Generation Detection](https://arxiv.org/abs/2412.13656)|Supervised Methods|Spatiotemporal Modeling|AAAI|CCF-A|2025|
@@ -34,8 +33,7 @@
 ### Modal Inconsistency Detectors
 
 |Paper Title|Category|Venue|CCF Rank|Year|
-|-|:-:|:-:|:-:|:-:|
-
+|:-|:-:|:-:|:-:|:-:|
 |[Exposing Lip-syncing Deepfakes from Mouth Inconsistencies](https://ieeexplore.ieee.org/document/10687902)|Supervised Methods|ICME|CCF-B|2024|
 |[Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a5a5b0ff87c59172a13342d428b1e033-Abstract-Conference.html)|Supervised Methods|NeurIPS|CCF-A|2024|
 |[Voice-Face Homogeneity Tells Deepfake](https://arxiv.org/abs/2203.02195)|Supervised Methods|TOMM|CCF-B|2023|
