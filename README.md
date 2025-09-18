@@ -14,8 +14,8 @@ We present a complete summary of existing work on audio-visual deepfake detectio
 
 ### Modal Fusion Detectors
 
-|Paper Title|Category|Strategy|Venue|CCF Rank|Year|
-|-|:-:|:-:|:-:|:--:|:-:|
+|Paper Title|Category|Strategy|Venue|CCF Rank&nbsp;|Year|
+|-|:-:|:-:|:-:|:-:|:-:|
 |[GLCF: A Global-Local Multimodal Coherence Analysis Framework for Talking Face Generation Detection](https://arxiv.org/abs/2412.13656)|Supervised Methods|Spatiotemporal Modeling|AAAI|CCF-A|2025|
 |[Multi-modal Deepfake Detection via Multi-task Audio-Visual Prompt Learning](https://ojs.aaai.org/index.php/AAAI/article/view/32042)|Supervised Methods|Multi-Task Learning|AAAI|CCF-A|2025|
 |[Cross-Modality and Within-Modality Regularization for Audio-Visual DeepFake Detection](https://arxiv.org/abs/2401.05746)|Supervised Methods|Correspondence Modeling|ICASSP|CCF-B|2024|
