@@ -11,6 +11,8 @@
 
 ## A.Audio Visual Deepfake Detection
 
+We review existing work on audio-visual deepfake detection.Due to space limitations, we did not discuss all the papers in the our paper.Here we provide a comprehensive summary of audio-visual deepfake detection.
+
 ### Modal Fusion Detectors
 
 |Paper Title|Category|Strategy|Venue|CCF Rank|Year|
