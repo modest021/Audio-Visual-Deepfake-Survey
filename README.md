@@ -1,19 +1,15 @@
-# An Exploratory Servey
-This repository provides an overview on audio-visual deepfake generation and detection.
-
+# AUDIO-VISUAL DEEPFAKE GENERATION AND DETECTION:AN EXPLORATORY SURVEY
 
 <img src="figures/audiovisualdeepfake.png">
 
-## Summary of Contents
----
-- [Summary of Contents](#Summary-of-Contents)
-- [Audio Visual Deepfake Detection](#Audio-Visual-Deepfake-Detection)
+## Appendix
+- [A.Audio Visual Deepfake Detection](#A.Audio-Visual-Deepfake-Detection)
   - [Modal Fusion Detectors](#Modal-Fusion-Detectors)
   - [Modal Inconsistency Detectors](#Modal-Inconsistency-Detectors)
-- [Generalization Experiments](#Generalization-Experiments)
+- [B.Generalization Experiments](#B.Generalization-Experiments)
 
 
-## Audio Visual Deepfake Detection
+## A.Audio Visual Deepfake Detection
 
 ### Modal Fusion Detectors
 
@@ -57,7 +53,7 @@ This repository provides an overview on audio-visual deepfake generation and det
 
 
 
-## Generalization Experiments
+## B.Generalization Experiments
 
 ### Benchmark Results
 
