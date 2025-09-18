@@ -15,7 +15,7 @@ We present a complete summary of existing work on audio-visual deepfake detectio
 ### Modal Fusion Detectors
 
 |Paper Title|Category|Strategy|Venue|CCF Rank|Year|
-|-|:-:|:-:|:-:|:-:|:-:|
+|-|:-:|:-:|:-:|:--:|:-:|
 |[GLCF: A Global-Local Multimodal Coherence Analysis Framework for Talking Face Generation Detection](https://arxiv.org/abs/2412.13656)|Supervised Methods|Spatiotemporal Modeling|AAAI|CCF-A|2025|
 |[Multi-modal Deepfake Detection via Multi-task Audio-Visual Prompt Learning](https://ojs.aaai.org/index.php/AAAI/article/view/32042)|Supervised Methods|Multi-Task Learning|AAAI|CCF-A|2025|
 |[Cross-Modality and Within-Modality Regularization for Audio-Visual DeepFake Detection](https://arxiv.org/abs/2401.05746)|Supervised Methods|Correspondence Modeling|ICASSP|CCF-B|2024|
@@ -96,5 +96,7 @@ We present our complete evaluation results on the generalization of deepfake det
 | **AVH-Align**       | IDForge     | 0.1472 | 0.501 | 0.5005 | 1.000 |
 |                     | AVLips      | 0.8661 | 0.864 | 0.8085 | 0.954 |
 |                     | CMDFD       | 0.8286 | 0.758 | 0.7287 | 0.822 |
+
+## Contact
 
 We are looking forward to any valuable questions or suggestions, please feel free to contact us at xuhang@hrbeu.edu.cn
