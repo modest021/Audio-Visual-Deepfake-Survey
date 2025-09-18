@@ -6,7 +6,7 @@
 - [A.Audio Visual Deepfake Detection](#A.Audio-Visual-Deepfake-Detection)
   - [Modal Fusion Detectors](#Modal-Fusion-Detectors)
   - [Modal Inconsistency Detectors](#Modal-Inconsistency-Detectors)
-- [B.Generalization Experiments](#B.Generalization Experiments)
+- [B.Generalization Experiments](#B.Generalization-Experiments)
 
 
 ## A.Audio Visual Deepfake Detection
@@ -26,31 +26,23 @@
 |[MCL: Multimodal Contrastive Learning for Deepfake Detection](https://ieeexplore.ieee.org/document/10243082)|Supervised Methods|Multi-Task Learning|IEEE TCSVT|CCF-A|2023|
 |[AVoiD-DF: Audio-Visual Joint Learning for Detecting Deepfake](https://ieeexplore.ieee.org/document/10081373)|Supervised Methods|Spatiotemporal Modeling|IEEE TIFS|CCF-A|2023|
 |[Multimodaltrace: Deepfake Detection using Audiovisual Representation Learning](https://ieeexplore.ieee.org/document/10208948)|Supervised Methods|Multi-Task Learning|CVPR Workshop|CCF-A|2023|
+|[AVFF: Audio-Visual Feature Fusion for Video Deepfake Detection](https://arxiv.org/abs/2406.02951)|Hybrid Self-Supervised and Supervised Methods|Correspondence Modeling|CVPR|CCF-A|2024|
+|[Audio–visual deepfake detection using articulatory representation learning](https://www.sciencedirect.com/science/article/pii/S1077314224002145)|Hybrid Self-Supervised and Supervised Methods|Correspondence Modeling|CVIU|CCF-B|2024|
+|[MFMS: Learning Modality-Fused and Modality-Specific Features for Deepfake Detection and Localization Tasks](https://dl.acm.org/doi/abs/10.1145/3664647.3688984)|Hybrid Self-Supervised and Supervised Methods|Modality-Fused and Modality-Specific Features|ACM MM|CCF-A|2024|
 
-#### Hybrid Self-Supervised and Supervised Methods
-|Year|Source|CCF Rank|Category|Paper Title|Code|
-|:-:|:-:|:-:|:-:|-|:-:|
-|2024|CVPR|CCF-A|Hybrid Self-Supervised and Supervised Methods|[AVFF: Audio-Visual Feature Fusion for Video Deepfake Detection](https://arxiv.org/abs/2406.02951)|-|
-|2024|CVIU|CCF-B|Hybrid Self-Supervised and Supervised Methods|[Audio–visual deepfakedetection using articulatory representation learning](https://www.sciencedirect.com/science/article/pii/S1077314224002145)|-|
-|2024|ACM MM|CCF-A|Hybrid Self-Supervised and Supervised Methods|[MFMS: Learning Modality-Fused and Modality-Specific Features for Deepfake Detection and Localization Tasks](https://dl.acm.org/doi/abs/10.1145/3664647.3688984)|-|
 
 ### Modal Inconsistency Detectors
 
-#### Supervised Methods
-|Year|Source|CCF Rank|Category|Paper Title|Code|
-|:-:|:-:|:-:|:-:|-|:-:|
-|2024|ICME|CCF-B|Supervised Methods|[Exposing Lip-syncing Deepfakes from Mouth Inconsistencies](https://ieeexplore.ieee.org/document/10687902)|[Code](https://github.com/skrantidatta/LIPINC)|
-|2024|NeurIPS|CCF-A|Supervised Methods|[Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a5a5b0ff87c59172a13342d428b1e033-Abstract-Conference.html)|[Code](https://github.com/AaronComo/LipFD)|
-|2023|TOMM|CCF-B|Supervised Methods|[Voice-Face Homogeneity Tells Deepfake](https://arxiv.org/abs/2203.02195)|[Code](https://github.com/xaCheng1996/MVF)|
-|2023|CVPR Workshop|CCF-A|Supervised Methods|[Audio-Visual Person-of-Interest DeepFake Detection](https://arxiv.org/abs/2204.03083)|[Code](https://github.com/grip-unina/poi-forensics)|
+|Paper Title|Category|Venue|CCF Rank|Year|
+|-|:-:|:-:|:-:|:-:|
 
-#### Unsupervised Methods
-|Year|Source|CCF Rank|Category|Paper Title|Code|
-|:-:|:-:|:-:|:-:|-|:-:|
-|2024|NeurIPS|CCF-A|Unsupervised Methods|[SpeechForensics: Audio-Visual Speech Representation Learning for Face Forgery Detection](https://arxiv.org/abs/2508.09913)|[Code](https://github.com/Eleven4AI/SpeechForensics)|
-|2023|CVPR|CCF-A|Unsupervised Methods|[Self-Supervised Video Forensics by Audio-Visual Anomaly Detection](https://arxiv.org/abs/2301.01767)|[Code](https://github.com/cfeng16/audio-visual-forensics)|
-|2025|CVPR|CCF-A|Unsupervised Methods|[Circumventing shortcuts in audio-visual deepfake detection datasets with unsupervised learning](https://arxiv.org/abs/2412.00175)|[Code](https://github.com/bit-ml/AVH-Align)|
-
+|[Exposing Lip-syncing Deepfakes from Mouth Inconsistencies](https://ieeexplore.ieee.org/document/10687902)|Supervised Methods|ICME|CCF-B|2024|
+|[Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a5a5b0ff87c59172a13342d428b1e033-Abstract-Conference.html)|Supervised Methods|NeurIPS|CCF-A|2024|
+|[Voice-Face Homogeneity Tells Deepfake](https://arxiv.org/abs/2203.02195)|Supervised Methods|TOMM|CCF-B|2023|
+|[Audio-Visual Person-of-Interest DeepFake Detection](https://arxiv.org/abs/2204.03083)|Supervised Methods|CVPR Workshop|CCF-A|2023|
+|[SpeechForensics: Audio-Visual Speech Representation Learning for Face Forgery Detection](https://arxiv.org/abs/2508.09913)|Unsupervised Methods|NeurIPS|CCF-A|2024|
+|[Self-Supervised Video Forensics by Audio-Visual Anomaly Detection](https://arxiv.org/abs/2301.01767)|Unsupervised Methods|CVPR|CCF-A|2023|
+|[Circumventing shortcuts in audio-visual deepfake detection datasets with unsupervised learning](https://arxiv.org/abs/2412.00175)|Unsupervised Methods|CVPR|CCF-A|2025|
 
 
 ## B.Generalization Experiments
