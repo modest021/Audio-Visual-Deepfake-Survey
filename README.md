@@ -59,7 +59,8 @@ We present a complete summary of existing work on audio-visual deepfake detectio
 
 We present our complete evaluation results on the generalization of deepfake detectors, in terms of Area Under the Curve (AUC), Accuracy (ACC), Precision, and Recall.
 
-<img src="figures/Generalization.png">
+|------|------|
+| Generalization | <img src="figures/Generalization.png" width="200"> |
 
 ## Contact
 
