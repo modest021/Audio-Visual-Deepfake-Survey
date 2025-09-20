@@ -37,19 +37,20 @@ We present a complete summary of existing work on audio-visual deepfake detectio
 
 |Paper Title|Category|Venue|CCF Rank|Year|
 |:-|:-:|:-:|:-:|:-:|
-|[Exposing Lip-syncing Deepfakes from Mouth Inconsistencies](https://ieeexplore.ieee.org/document/10687902)|Supervised Methods|ICME|CCF-B|2024|
 |[Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a5a5b0ff87c59172a13342d428b1e033-Abstract-Conference.html)|Supervised Methods|NeurIPS|CCF-A|2024|
+|[Exposing Lip-syncing Deepfakes from Mouth Inconsistencies](https://ieeexplore.ieee.org/document/10687902)|Supervised Methods|ICME|CCF-B|2024|
 |[Voice-Face Homogeneity Tells Deepfake](https://arxiv.org/abs/2203.02195)|Supervised Methods|TOMM|CCF-B|2023|
+|[PVASS-MDD: Predictive Visual-Audio Alignment Self-Supervision for Multimodal Deepfake Detection](https://ieeexplore.ieee.org/abstract/document/10233898)|Supervised Methods|TCSVT|CCF-B|2023|
+|[NPVForensics: Learning VA correlations in non-critical phoneme–viseme regions for deepfake detection](https://www.sciencedirect.com/science/article/pii/S0262885625000496)|Supervised Methods|Image and Vision Computing|CCF-C|2025|
 |[Zero-Shot Fake Video Detection by Audio-Visual Consistency](https://arxiv.org/pdf/2406.07854)|Supervised Methods|Interspeech|CCF-C|2024|
 |[Detecting Audio-Visual Deepfakes with Fine-Grained Inconsistencies](https://arxiv.org/pdf/2408.06753)|Supervised Methods|BMVC|CCF-C|2024|
-|[NPVForensics: Learning VA correlations in non-critical phoneme–viseme regions for deepfake detection](https://www.sciencedirect.com/science/article/pii/S0262885625000496)|Supervised Methods|Image and Vision Computing|CCF-C|2025|
 |[STATISTICS-AWARE AUDIO-VISUAL DEEPFAKE DETECTOR](https://arxiv.org/pdf/2407.11650?)|Supervised Methods|ICIP|CCF-C|2024|
-|[Audio-Visual Person-of-Interest DeepFake Detection](https://arxiv.org/abs/2204.03083)|Supervised Methods|CVPR Workshop|CCF-A|2023|
-|[Multimodal Neurosymbolic Approach for Explainable Deepfake Detection](https://dl.acm.org/doi/full/10.1145/3624748)|Unsupervised Methods|TOMM|CCF-B|2024|
-|[Multimodal Neurosymbolic Approach for Explainable Deepfake Detection](https://ieeexplore.ieee.org/abstract/document/10233898)|Supervised Methods|TCSVT |CCF-B|2023|
+|[Audio-Visual Person-of-Interest DeepFake Detection](https://arxiv.org/abs/2204.03083)|Supervised Methods|CVPR Workshop|CCF-A Workshop|2023|
+|[Circumventing shortcuts in audio-visual deepfake detection datasets with unsupervised learning](https://arxiv.org/abs/2412.00175)|Unsupervised Methods|CVPR|CCF-A|2025|
 |[SpeechForensics: Audio-Visual Speech Representation Learning for Face Forgery Detection](https://arxiv.org/abs/2508.09913)|Unsupervised Methods|NeurIPS|CCF-A|2024|
 |[Self-Supervised Video Forensics by Audio-Visual Anomaly Detection](https://arxiv.org/abs/2301.01767)|Unsupervised Methods|CVPR|CCF-A|2023|
-|[Circumventing shortcuts in audio-visual deepfake detection datasets with unsupervised learning](https://arxiv.org/abs/2412.00175)|Unsupervised Methods|CVPR|CCF-A|2025|
+|[Multimodal Neurosymbolic Approach for Explainable Deepfake Detection](https://dl.acm.org/doi/full/10.1145/3624748)|Unsupervised Methods|TOMM|CCF-B|2024|
+
 
 
 
