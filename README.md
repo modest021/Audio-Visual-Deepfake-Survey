@@ -38,6 +38,7 @@ We present a complete summary of existing work on audio-visual deepfake detectio
 |Paper Title|Category|Venue|CCF Rank|Year|
 |:-|:-:|:-:|:-:|:-:|
 |[Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a5a5b0ff87c59172a13342d428b1e033-Abstract-Conference.html)|Supervised Methods|NeurIPS|CCF-A|2024|
+|[Multimodal Neurosymbolic Approach for Explainable Deepfake Detection](https://dl.acm.org/doi/full/10.1145/3624748)|Supervised Methods|TOMM|CCF-B|2024|
 |[Exposing Lip-syncing Deepfakes from Mouth Inconsistencies](https://ieeexplore.ieee.org/document/10687902)|Supervised Methods|ICME|CCF-B|2024|
 |[Voice-Face Homogeneity Tells Deepfake](https://arxiv.org/abs/2203.02195)|Supervised Methods|TOMM|CCF-B|2023|
 |[PVASS-MDD: Predictive Visual-Audio Alignment Self-Supervision for Multimodal Deepfake Detection](https://ieeexplore.ieee.org/abstract/document/10233898)|Supervised Methods|TCSVT|CCF-B|2023|
@@ -49,7 +50,7 @@ We present a complete summary of existing work on audio-visual deepfake detectio
 |[Circumventing shortcuts in audio-visual deepfake detection datasets with unsupervised learning](https://arxiv.org/abs/2412.00175)|Unsupervised Methods|CVPR|CCF-A|2025|
 |[SpeechForensics: Audio-Visual Speech Representation Learning for Face Forgery Detection](https://arxiv.org/abs/2508.09913)|Unsupervised Methods|NeurIPS|CCF-A|2024|
 |[Self-Supervised Video Forensics by Audio-Visual Anomaly Detection](https://arxiv.org/abs/2301.01767)|Unsupervised Methods|CVPR|CCF-A|2023|
-|[Multimodal Neurosymbolic Approach for Explainable Deepfake Detection](https://dl.acm.org/doi/full/10.1145/3624748)|Unsupervised Methods|TOMM|CCF-B|2024|
+
 
 
 
