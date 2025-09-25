@@ -1,11 +1,11 @@
-# Audio-visual Deepfake Generation And Detection:  An Exploratory Survey
+# Audio-Visual Deepfake Generation and Detection:  An Exploratory Survey
 <img src="figures/Audio-Visual Deepfake.png">
 
 ## Appendix
 - [A. Audio Visual Deepfake Detection](#A.Audio-Visual-Deepfake-Detection)
   - [Modal Fusion Detectors](#Modal-Fusion-Detectors)
   - [Modal Inconsistency Detectors](#Modal-Inconsistency-Detectors)
-- [B. Generalization Experiments](#B.Generalization-Experiments)
+- [B. Generalization Experiments](#b-generalization-experiments)
 
 
 ## A. Audio Visual Deepfake Detection
