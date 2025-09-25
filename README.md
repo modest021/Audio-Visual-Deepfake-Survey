@@ -2,7 +2,7 @@
 <img src="figures/Audio-Visual Deepfake.png">
 
 ## Appendix
-- [A. Audio Visual Deepfake Detection](#A.Audio-Visual-Deepfake-Detection)
+- [A. Audio Visual Deepfake Detection](#a-audio-visual-deepfake-detection)
   - [Modal Fusion Detectors](#Modal-Fusion-Detectors)
   - [Modal Inconsistency Detectors](#Modal-Inconsistency-Detectors)
 - [B. Generalization Experiments](#b-generalization-experiments)
