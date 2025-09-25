@@ -1,5 +1,5 @@
 # Audio-Visual Deepfake Generation and Detection:  An Exploratory Survey
-<img src="figures/Audio-Visual Deepfake.png">
+<img src="figures/Audio-VisualDeepfake.png">
 
 ## Appendix
 - [A. Audio Visual Deepfake Detection](#a-audio-visual-deepfake-detection)
