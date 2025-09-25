@@ -2,13 +2,13 @@
 <img src="figures/Audio-Visual Deepfake.png">
 
 ## Appendix
-- [A. Audio Visual Deepfake Detection](#a-audio-visual-deepfake-detection)
+- [A. Audio-Visual Deepfake Detection](#a-audio-visual-deepfake-detection)
   - [Modal Fusion Detectors](#Modal-Fusion-Detectors)
   - [Modal Inconsistency Detectors](#Modal-Inconsistency-Detectors)
 - [B. Generalization Experiments](#b-generalization-experiments)
 
 
-## A. Audio Visual Deepfake Detection
+## A. Audio-Visual Deepfake Detection
 
 We present a complete summary of existing work on audio-visual deepfake detection, involving publication ranks on CCF-A, CCF-B and CCF-C.
 
